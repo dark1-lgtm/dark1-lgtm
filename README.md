@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dark</h1>
+<h3 align="center">Computer Engineering Student | AI/ML Intern | Python Developer</h3>
 
-<!--
-**dark1-lgtm/dark1-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Diploma in Computer Engineering (3rd Year)
+- 💼 Currently doing an AI/ML Internship
+- 🌱 Learning Python, Machine Learning & Git
+- 🎯 Goal: Become an AI Engineer
+- ⚡ Fun fact: Anime motivates me to keep learning!
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- java
+- Git & GitHub
+- AI / Machine Learning
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dark1-lgtm&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dark1-lgtm&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🐍 Python Projects
+- 💻 Open Source Learning
+
+---
+
+## 🎮 Hobbies
+
+- Watching Anime 🍥
+- esports 🎮
+- Learning New Technologies 🚀
+
+---
+
+### ⭐ Favorite Quote
+
+> "Hard work beats talent when talent doesn't work hard."
+
+---
+
+⭐ Thanks for visiting my profile!
